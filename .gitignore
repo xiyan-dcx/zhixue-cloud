@@ -1,0 +1,12 @@
+node_modules/
+target/
+dist/
+uploads/
+.idea/
+.vscode/
+*.log
+*.local
+.env
+.env.*
+!.env.example
+backend/src/main/resources/application.yaml
